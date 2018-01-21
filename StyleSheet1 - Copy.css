@@ -1,0 +1,19 @@
+﻿body * 
+
+
+
+
+.container {
+    display: flex;
+}
+
+.fixed {
+    width: 1000px;
+}
+
+.flex-item {
+    flex-grow: 1;
+}
+    
+                 
+        
